@@ -1,8 +1,4 @@
-### Oi, eu sou Pedro Pandolfi, um desenvolvedor web front-end autodidata apaixonado.
-- 🔭 Atualmente estou trabalhando em algo legal 😉
-- 🌱 Atualmente estou aprendendo tudo 🤣
-- 🥅 Objetivos 2021: Esperar a Covid19 acabar.
-- ⚡ Curiosidade: passei meu fim de semana assistindo séries.
+### Oi, eu sou Pedro Pandolfi.
 
 ### Siga-me:
 
