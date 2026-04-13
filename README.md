@@ -4,15 +4,16 @@
 <h3 align="center">Analista de Sistemas · Espírito Santo, Brasil</h3>
 
 <p align="center">
-  Desenvolvimento web e sistemas — com um pé em eletrônica embarcada e engenharia reversa automotiva.
+  Desenvolvimento de sistemas e aplicações web — com experiência em eletrônica embarcada,<br/>
+  engenharia reversa automotiva e integração de hardware com software.
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/pandolfipedro" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/pandolfipedro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/pandolfipedro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -20,60 +21,57 @@
 
 ## Sobre mim
 
-- 💻 Analista de Sistemas com foco em desenvolvimento web
-- ⚡ Apaixonado por projetos embarcados — ESP32, CAN bus, automação
-- 🔧 Criador do **PQ35 ABS Emulator**: emulador de módulo ABS/ESP para plataforma VW PQ35/PQ46 usando ESP32 + MCP2515, restaurando velocímetro, hodômetro e Cruise Control sem o módulo original
-- 🌎 Espírito Santo, Brasil
+- 💼 Analista de Sistemas com atuação em desenvolvimento web e sistemas empresariais
+- ⚡ Entusiasta de eletrônica embarcada — ESP32, CAN bus, protocolos automotivos
+- 🔬 Curioso por engenharia reversa e protocolos industriais (VAG KMatrix, OBD2, CAN ISO 11898)
+- 🚗 Criador do **PQ35 ABS Emulator** — projeto open source de emulação de módulo ABS para VW
 
 ---
 
-## Stack
+## Stack Web & Backend
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" title="HTML5" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="32" title="Sass" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" title="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" title="React" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32" title="Node.js" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" title="MySQL" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="32" title="Git" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="32" title="C++" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="32" title="Arduino / ESP32" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="32" title="Bash" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" title="HTML5" />&nbsp;
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" title="Sass" />&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" title="JavaScript" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" title="React" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" title="Node.js" />&nbsp;
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" title="PHP" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" title="MySQL" />
+</p>
+
+## Stack Embarcada & Sistemas
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" title="C++" />&nbsp;
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" title="Arduino / ESP32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/swift/F05138" height="30" title="Objective-C / iOS" />&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" title="Git" />&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" title="Bash / Terminal" />&nbsp;
 </p>
 
 ---
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### 🚗 [PQ35 ABS Emulator](https://github.com/pandolfipedro/pq35-abs-emulator)
 
-> Emulador de barramento CAN para a plataforma VW PQ35/PQ46.  
-> Substitui o módulo ABS MK60EC1 no barramento, restaurando velocímetro, hodômetro e Cruise Control sem o módulo original instalado.
+> Emulador open source de módulo ABS/ESP para a plataforma **VW PQ35/PQ46** (Jetta MK5, Golf MK5, Beetle TSI).  
+> Substitui o módulo Bosch MK60EC1 no barramento CAN, restaurando velocímetro, hodômetro e Cruise Control  
+> sem o módulo ABS original instalado.
 
-**Tecnologias:** `ESP32` · `MCP2515` · `ACAN2515` · `CAN bus` · `C++` · `KMatrix PQ35/46` · `OBD2`
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandolfipedro&show_icons=true&theme=dark&hide_border=true&count_private=true" height="140" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandolfipedro&layout=compact&theme=dark&hide_border=true&langs_count=6" height="140" />
-</p>
+**Stack:** `ESP32` · `MCP2515 + TJA1050` · `ACAN2515` · `CAN bus 500kbps` · `C++` · `OBD2 PID 0x0D`  
+**Protocolo:** KMatrix PQ35/46 V5.20.6F · Mensagens `0x1A0` `0x4A0` `0x4A8` `0x5A0` `0xDA0`
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pandolfipedro&style=flat-square&color=555555" />
-</p>
+### 📡 [CAN PQ35 — KMatrix Reference](https://github.com/pandolfipedro/pq35-abs-emulator/blob/main/CAN_PQ35.md)
+
+> Tabela de referência de sinais CAN para a plataforma PQ35/PQ46, baseada no PDF oficial da K-Matrix da VW  
+> (V5.20.6F). Documenta todos os sinais relevantes para emulação de ABS/ESP com comentários de implementação em C++.
+
+**Cobertura:** `mBremse_1 (0x1A0)` · `mBremse_2 (0x5A0)` · `mBremse_3 (0x4A0)` · `mBremse_5 (0x4A8)`  
+**Utilidade:** Referência para projetos de emulação CAN na plataforma VAG
+
+---
+
