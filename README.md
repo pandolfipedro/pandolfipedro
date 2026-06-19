@@ -115,9 +115,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandolfipedro&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <i>Aberto a colaborações em projetos automotivos, embarcados e ferramentas para desenvolvedores.</i>
 </p>
